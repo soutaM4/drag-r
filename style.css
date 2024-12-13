@@ -1,0 +1,11 @@
+element.style {
+}
+:root, body.is-fullscreen {
+    background-color: #000000;
+}
+:root {
+    view-transition-name: root;
+}
+html {
+    display: block;
+}
